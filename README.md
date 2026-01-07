@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ### 💬 Language : 
 - 🇹🇭 Thai (native) 
 - 🇬🇧 English (intermediate level - B3 level)
-- 🇯🇵 Japanese (N3 level)
+- 🇯🇵 Japanese (N2 level)
 
  🔭 Web developer 🔭
 
